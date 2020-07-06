@@ -14,7 +14,7 @@ This repository contains Smart Contract code in Solidity (using Truffle), tests 
 
 To install:
 ```shell
-git clone https://github.com/stevenhankin/FlightSurety.git
+git clone https://github.com/garima94921/FlightSurety.git
 cd FlightSurety
 npm install
 truffle compile
